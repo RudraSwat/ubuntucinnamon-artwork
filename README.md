@@ -1,15 +1,6 @@
-budgie-artwork
+ubuntucinnamon-artwork
 ==============
 
-Artwork for Ubuntu Budgie
+Artwork for Ubuntu Cinnamon Remix
 
-Contains all the artwork for Ubuntu including LightDM and its Greeter
-
-Also the icon-theme for Ubuntu Budgie - Pocillo - is defined
-
-Pocillo-Gtk-Theme
-
-After copying /usr/share/themes/Pocillo* run
-
-find . -type f -exec chmod 644 {} +
-
+Contains all the artwork for Ubuntu Cinnamon Remix
